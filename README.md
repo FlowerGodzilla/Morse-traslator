@@ -37,5 +37,3 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/morse-code-translator.git
 
-## Demo:
-[Live Demo Link](https://flowergodzilla.github.io/)
