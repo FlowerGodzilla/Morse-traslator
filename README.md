@@ -28,7 +28,7 @@ This project is built using HTML, CSS, and JavaScript. It also features input va
 
 ## Demo
 
-You can try out the live demo of the Morse Code Translator [here](#).
+You can try out the live demo of the Morse Code Translator [here](https://flowergodzilla.github.io/Morse-traslator/).
 
 ## Installation
 
